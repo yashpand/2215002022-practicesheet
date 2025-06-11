@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BasicPrograms {
+public class Bridgeday1{
 
     public static void main(String[] args) {
         calculateSimpleInterest();
