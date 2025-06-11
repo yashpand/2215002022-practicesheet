@@ -35,7 +35,7 @@ public class BridgeLabzPrograms {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter radius of the circle: ");
         double radius = scanner.nextDouble();
-        double area = Math.PI * radius * radius;
+        double area = 3.14* radius * radius;
         System.out.println("Area of the circle: " + area);
     }
 }
